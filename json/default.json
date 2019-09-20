@@ -1,0 +1,98 @@
+{
+    "MESO-ADSENSE": {
+        "conditions": [{
+            "uci": "page",
+            "slot": "page"
+        }]
+    },
+    "MESO-DISPLAY-AD": {
+        "conditions": [{
+            "slot": "CL1",
+            "uci": "CL1"
+        }, {
+            "slot": "CL2",
+            "uci": "CL2"
+        }, {
+            "slot": "CL3",
+            "uci": "CL3"
+        }, {
+            "slot": "CL4",
+            "uci": "CL4"
+        }, {
+            "slot": "CL5",
+            "uci": "CL5"
+        }, {
+            "slot": "CL6",
+            "uci": "CL6"
+        }, {
+            "slot": "CL7",
+            "uci": "CL7"
+        }, {
+            "slot": "CL8",
+            "uci": "CL8"
+        }, {
+            "slot": "CL9",
+            "uci": "CL9"
+        }, {
+            "slot": "CM1",
+            "uci": "CM1"
+        }, {
+            "slot": "CM2",
+            "uci": "CM2"
+        }, {
+            "slot": "CM3",
+            "uci": "CM3"
+        }, {
+            "slot": "CT1",
+            "uci": "CT1"
+        }, {
+            "slot": "CT2",
+            "uci": "CT2"
+        }, {
+            "slot": "R1",
+            "breakpoints": ["desktop"],
+            "uci": "R1"
+        }, {
+            "slot": "R2",
+            "uci": "R2",
+            "breakpoints": ["desktop"],
+            "attributes": {
+                "refocusrefresh": 10
+            }
+        }, {
+            "slot": "L1",
+            "uci": "L1"
+        }]
+    },
+    "MESO-NATIVE-IMAGE-LINK": {
+        "conditions": [{
+            "slot": "NIL1",
+            "uci": "NIL1",
+            "attributes": {
+                "width": 730,
+                "height": 99
+            }
+        }, {
+            "slot": "NIL2",
+            "uci": "NIL2",
+            "attributes": {
+                "width": 730,
+                "height": 99
+            }
+        }, {
+            "slot": "NIL3",
+            "uci": "NIL3",
+            "attributes": {
+                "width": 730,
+                "height": 99
+            }
+        }, {
+            "slot": "NIL4",
+            "uci": "NIL4",
+            "attributes": {
+                "width": 730,
+                "height": 99
+            }
+        }]
+    }
+}
